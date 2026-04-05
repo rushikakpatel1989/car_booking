@@ -17,9 +17,6 @@ yarn-error.log*
 dist/
 build/
 
-uploads/*
-package-lock.json
-
 # IDE/Editor folders
 .vscode/
 .idea/
